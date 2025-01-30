@@ -1,10 +1,12 @@
-## Olá, Eu sou o Erick Palheta
+## Hi, I'm Erick!👋
+I'm a Computer Science student and a Backend Developer. In my projects, I use Java, Spring Boot, and MySQL to create scalable and efficient solutions. I also have experience with Docker, algorithms, and data structures. Feel free to check out my projects and see how I apply these technologies in practice.
+##
 
 
 
 ![Erick GitHub stats](https://github-readme-stats.vercel.app/api?username=ErickPalheta&show_icons=true&theme=dark)
 
-## Tecnologias
+## Tech stack
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
