@@ -1,6 +1,6 @@
 ## Olá, Eu sou o Erick Palheta
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dev-erickpalheta)
+
 
 ![Erick GitHub stats](https://github-readme-stats.vercel.app/api?username=ErickPalheta&show_icons=true&theme=dark)
 
